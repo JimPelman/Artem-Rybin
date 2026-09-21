@@ -1,3 +1,6 @@
+[🇬🇧 English](#english-version) | [🇷🇺 Русский](#русская-версия)
+
+<a name="english-version"></a>
 # Hi, I'm Artem Rybin! 👋
 
 I am a Computer Science and Engineering student developing my skills at the intersection of software and hardware. I am passionate about low-level development, microelectronics, and building systems where control over resources and memory is crucial. 
@@ -40,7 +43,7 @@ I am currently open to internship or Junior Developer positions. I am particular
 
 
 
-
+<a name="русская-версия"></a>
 * # Привет, я Рыбин Артём! 👋
 
 Я студент направления «Информатика и вычислительная техника», развивающийся на стыке программного обеспечения и железа. Меня увлекает низкоуровневая разработка, микроэлектроника и создание систем, где важен контроль над ресурсами и памятью. 
